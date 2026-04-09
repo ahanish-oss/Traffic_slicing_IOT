@@ -1,0 +1,5 @@
+{
+  "name": "IIoT Traffic Slicing Dashboard",
+  "description": "A professional industrial IoT monitoring dashboard for Software Defined Traffic Slicing, featuring real-time sensor data prioritization and visualization.",
+  "requestFramePermissions": []
+}
